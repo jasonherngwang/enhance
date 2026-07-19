@@ -1,0 +1,14 @@
+.env
+*.env
+.DS_Store
+
+__pycache__/
+.venv/
+archive/
+*.part
+
+AGENTS.md
+CLAUDE.md
+.claude/
+.agents/
+docs/
